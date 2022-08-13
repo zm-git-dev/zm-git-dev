@@ -323,4 +323,4 @@ hjDs
 [![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/flipcase93)
 
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
-<img src="https://imgur.com/rilHVxA.png" width="60%" height="auto" />
+<img align="middle" src="https://imgur.com/rilHVxA.png" width="80%" height="auto" />
