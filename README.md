@@ -324,5 +324,5 @@ hjDs
 
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
 <div align=center>
-  <img  src="https://imgur.com/rilHVxA.png" width="40%" height="auto" />
+  <img  src="https://imgur.com/rilHVxA.png" width="80%" height="40%" />
 </div>
