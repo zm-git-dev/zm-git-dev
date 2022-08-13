@@ -319,5 +319,8 @@ hjDs
 ```
 </details>
 
+### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
+[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/flipcase93)
+
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
 <img src="https://imgur.com/rilHVxA.png"/>
